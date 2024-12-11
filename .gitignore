@@ -1,0 +1,5 @@
+.env
+data/*
+sierra_db*
+.venv
+.DS_Store
